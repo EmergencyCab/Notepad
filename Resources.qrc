@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Icons1/icons8-copy-30.png</file>
+        <file>Icons1/icons8-cut-64.png</file>
+        <file>Icons1/icons8-delete-30.png</file>
+        <file>Icons1/icons8-exit-50.png</file>
+        <file>Icons1/icons8-open-50.png</file>
+        <file>Icons1/icons8-paste-50.png</file>
+        <file>Icons1/icons8-print-50.png</file>
+        <file>Icons1/icons8-redo-50.png</file>
+        <file>Icons1/icons8-save-as-50.png</file>
+        <file>Icons1/icons8-undo-50.png</file>
+        <file>Icons1/new.png</file>
+    </qresource>
+</RCC>
